@@ -38,7 +38,7 @@ const LandingPage = () => {
               <LayoutTemplate className={landingPageStyles.logoIconInner} />
             </div>
             <span className={landingPageStyles.logoText}>
-              ResumeXpert
+              CareerCraft
             </span>
           </div>
 
@@ -237,7 +237,7 @@ const LandingPage = () => {
           <div className={landingPageStyles.featuresContainer}>
             <div className={landingPageStyles.featuresHeader}>
               <h2 className={landingPageStyles.featuresTitle}>
-                Why Choose <span className={landingPageStyles.featuresTitleGradient}>ResumeXpert?</span>
+                Why Choose <span className={landingPageStyles.featuresTitleGradient}>CareerCraft?</span>
               </h2>
               <p className={landingPageStyles.featuresDescription}>
                 Everything you need to create a professional resume that stands out
@@ -314,7 +314,7 @@ const LandingPage = () => {
           <p className={landingPageStyles.footerText}>
             Crafted with <span className={landingPageStyles.footerHeart}>❤️</span> by{' '}
             <a href="https://hexagondigitalservices.com" target="_blank" className={landingPageStyles.footerLink}>
-              Hexagon Digital Services
+              Laharika
             </a>
           </p>
         </div>
