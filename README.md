@@ -1,8 +1,8 @@
-🚀 CareerCraft – Smart Resume Builder
+#🚀 CareerCraft – Smart Resume Builder
 
 CareerCraft is a full-stack web application that enables users to create, manage, and export professional resumes effortlessly. Built using the MERN stack, it offers:
 
-✨ Features:
+##✨ Features:
 
 Responsive React + Tailwind CSS interfaces
 
@@ -12,7 +12,7 @@ MongoDB-based resume data management
 
 Users can track multiple resume versions, visualize progress, and export resumes as PDF files. The application is fully optimized for both mobile and desktop devices.
 
-💡 Functionalities
+##💡 Functionalities
 
 🔐 User Authentication: Secure signup/login using email/password or OAuth
 
@@ -28,7 +28,7 @@ Users can track multiple resume versions, visualize progress, and export resumes
 
 📱 Mobile-Friendly: Fully responsive UI for mobile and tablet devices
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 💻 Frontend: React.js, Tailwind CSS
 
